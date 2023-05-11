@@ -1,0 +1,33 @@
+/* Write your code here. */
+.navbarcontainer {
+  background-color: #9796f0;
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+}
+.navbarcontent {
+  width: 80vw;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: #ffffff;
+}
+.content1 {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+.content2 {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+
+  width: 20vw;
+}
+.topscore {
+  padding-left: 20px;
+}
+h1 {
+  font-weight: 700;
+  font-size: 25px;
+}
